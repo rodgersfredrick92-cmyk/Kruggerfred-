@@ -1,0 +1,2 @@
+# Kruggerfred-
+Deriv bot
